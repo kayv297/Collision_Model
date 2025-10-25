@@ -55,6 +55,28 @@ Most scripts write intermediate and final outputs under `data/` by convention (w
 - Keep computational outputs and logs out of version control (use `data/`).
 - Prefer small, testable utilities and document CLI flags via `--help`.
 
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@software{collision_model_2025,
+  author = {Nguyen, Minh-Tam and Vu, Duc-Kha},
+  title = {{Collision Model Quantum Dynamics Optimizer}},
+  year = {2025},
+  url = {https://github.com/kayv297/Collision_Model},
+  version = {1.0.0},
+  note = {Python implementation of gradient-based optimization for quantum collision model parameters using L-BFGS-B}
+}
+```
+
+Alternatively, use the **Cite this repository** button on GitHub or refer to the [CITATION.cff](CITATION.cff) file.
+
+## Authors
+
+- **Minh-Tam Nguyen**
+- **Duc-Kha Vu**
+
 ## License
 
 TBD — add a license if/when you publish the project.

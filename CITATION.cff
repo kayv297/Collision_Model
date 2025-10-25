@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Nguyen"
+    given-names: "Minh-Tam"
+  - family-names: "Vu"
+    given-names: "Duc-Kha"
+title: "Collision Model Quantum Dynamics Optimizer"
+version: 1.0.0
+date-released: 2025-10-25
+url: "https://github.com/kayv297/Collision_Model"
+repository-code: "https://github.com/kayv297/Collision_Model"
+keywords:
+  - quantum computing
+  - collision model
+  - Dicke state
+  - quantum gates
+  - L-BFGS-B optimization
+  - gradient descent
+  - quantum simulation
+abstract: >
+  A Python implementation of collision model quantum dynamics with
+  gradient-based optimization (L-BFGS-B) for determining optimal
+  interaction parameters (gamma_in, gamma_sh) to prepare uniform
+  Dicke states through intra-register and shuttle-register collisions.
+  Includes utilities for quantum gate operations, state analysis,
+  metrics computation, and visualization.

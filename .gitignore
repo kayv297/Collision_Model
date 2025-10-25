@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+.python-version
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific ignores
+# Ignore all data artifacts and checkpoints
+/data/
+
+# Ignore all text files (e.g., large logs/metrics)
+*.txt

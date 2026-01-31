@@ -193,10 +193,10 @@ This will compute the optimal Rz angles and report the final fidelity.
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{Tam_collision_model_2025,
+@software{Tam_collision_model_2026,
   author = {Nguyen, Minh Tam and Vu, Duc-Kha and Fatih, Ozaydin},
   title = {{Dicke State Preparation via Collision Model}},
-  year = {2025},
+  year = {2026},
   url = {https://github.com/kayv297/Collision_Model},
   version = {1.0.0},
   note = {Python implementation of gradient-based optimization for quantum collision model parameters using L-BFGS-B}
